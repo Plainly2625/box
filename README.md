@@ -1,4 +1,6 @@
-# box
-A box game that is runned in bochs.
-
-text
+项目：推箱子（用户级应用）
+组员：1352897 蔡舒炘 01班
+      1352898 张昊   02班
+      1352904 李明阳 01班
+GIT托管地址：https://github.com/Plainly2625/box.git
+项目说明信息：在Linux分支ubuntu系统中，使用bochs虚拟一个简单的操作系统，在该系统中实现一个著名的推箱子小游戏，参考经典推箱子小游戏设计了4关经典关卡，主要可以休闲娱乐。
